@@ -1,4 +1,3 @@
-# -*- coding: utf-8-*-
 from snowboy import snowboydecoder
 from robot import config, utils, constants, logging, statistic, Player
 from robot.Updater import Updater
